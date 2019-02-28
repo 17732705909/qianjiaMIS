@@ -5,6 +5,8 @@ import router from './router'
 import ElementUI from 'element-ui'
 // 导入element-ui的样式
 import 'element-ui/lib/theme-chalk/index.css'
+// 导入自己的样式
+import '@/assets/css/index.css'
 // 使用
 Vue.use(ElementUI)
 
